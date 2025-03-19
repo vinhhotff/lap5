@@ -1,0 +1,11 @@
+.Tab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    &_item {
+        display: flex;
+        gap: 10px;
+    }
+}
